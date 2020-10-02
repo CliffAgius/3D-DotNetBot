@@ -24,4 +24,4 @@ However if you already own a 3D printer and want to print and have the kids pain
 
 ## Model
 
-The model was intially designed as a Keychain so it's fairly small but you can scale to the height you want in your slicer software the one in the image is scaled 1000% to get the size I wanted.
+The model is 100mm tall but if you want larger or smaller you can scale in your slicer program, beware that making it much smaller means that the detail will drop and things like the Belt will not show in the final print.
