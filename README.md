@@ -5,7 +5,7 @@
 This repo contains the 3D STL files that can be used to 3D print a nice little DotNet Bot, here is one printed earlier.
 
 
-![DotNet 3D Print](DotNetPrint.JPG)
+![DotNet 3D Print](DotNetPrint.jpg)
 
 
 ## Printer.
